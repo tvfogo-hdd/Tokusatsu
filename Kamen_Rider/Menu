@@ -20,38 +20,6 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Kamen Rider 555[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/mbMXzNf.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/tvfogo-hdd/Tokusatsu/main/Kamen_Rider/Kamen_Rider_555</externallink>
-<fanart></fanart>
-<info>Tokusatsu</info>
-</channel>
-
-<channel>
-<name>[COLOR white][B]Kamen Rider Agito[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/kBdd89P.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/tvfogo-hdd/Tokusatsu/main/Kamen_Rider/Kamen_Rider_Agito</externallink>
-<fanart></fanart>
-<info>Tokusatsu</info>
-</channel>
-
-<channel>
-<name>[COLOR white][B]Kamen Rider Amazon[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/MkEDM8p.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/tvfogo-hdd/Tokusatsu/main/Kamen_Rider/Kamen_Rider_Amazon</externallink>
-<fanart></fanart>
-<info>Tokusatsu</info>
-</channel>
-
-<channel>
-<name>[COLOR white][B]Kamen Rider Black[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/rRxxwZA.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tvfogo-hdd/Tokusatsu/main/Kamen_Rider/Kamen_Rider_Black</externallink>
-<fanart></fanart>
-<info>Tokusatsu</info>
-</channel>
-
-<channel>
 <name>[COLOR white][B]Kamen Rider Black RX[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/nOSsZWL.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo-hdd/Tokusatsu/main/Kamen_Rider/Kamen_Rider_Black_RX</externallink>
@@ -71,14 +39,6 @@
 <name>[COLOR white][B]Kamen Rider Decade[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/BUEhjNy.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo-hdd/Tokusatsu/main/Kamen_Rider/Kamen_Rider_Decade</externallink>
-<fanart></fanart>
-<info>Tokusatsu</info>
-</channel>
-
-<channel>
-<name>[COLOR white][B]Kamen Rider Den-O[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/Vpqiz7i.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tvfogo-hdd/Tokusatsu/main/Kamen_Rider/Kamen_Rider_Den-O</externallink>
 <fanart></fanart>
 <info>Tokusatsu</info>
 </channel>
@@ -108,14 +68,6 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Kamen Rider Fourze[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/8Z7UaB0.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tvfogo-hdd/Tokusatsu/main/Kamen_Rider/Kamen_Rider_Fourze</externallink>
-<fanart></fanart>
-<info>Tokusatsu</info>
-</channel>
-
-<channel>
 <name>[COLOR white][B]Kamen Rider Gaim[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/adwooMs.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo-hdd/Tokusatsu/main/Kamen_Rider/Kamen_Rider_Gaim</externallink>
@@ -132,25 +84,9 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Kamen Rider Hibiki[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/erKq9wh.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tvfogo-hdd/Tokusatsu/main/Kamen_Rider/Kamen_Rider_Hibiki</externallink>
-<fanart></fanart>
-<info>Tokusatsu</info>
-</channel>
-
-<channel>
 <name>[COLOR white][B]Kamen Rider Ichigo[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/2f6q868.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo-hdd/Tokusatsu/main/Kamen_Rider/Kamen_Rider_Ichigo</externallink>
-<fanart></fanart>
-<info>Tokusatsu</info>
-</channel>
-
-<channel>
-<name>[COLOR white][B]Kamen Rider Kabuto[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/U4U2mtW.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tvfogo-hdd/Tokusatsu/main/Kamen_Rider/Kamen_Rider_Kabuto</externallink>
 <fanart></fanart>
 <info>Tokusatsu</info>
 </channel>
@@ -172,25 +108,9 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Kamen Rider OOO[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/IQAMjp0.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tvfogo-hdd/Tokusatsu/main/Kamen_Rider/Kamen_Rider_OOO</externallink>
-<fanart></fanart>
-<info>Tokusatsu</info>
-</channel>
-
-<channel>
 <name>[COLOR white][B]Kamen Rider: O Cavaleiro Dragão[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/meTwl9q.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo-hdd/Tokusatsu/main/Kamen_Rider/Kamen_Rider_O_Cavaleiro_Dragao</externallink>
-<fanart></fanart>
-<info>Tokusatsu</info>
-</channel>
-
-<channel>
-<name>[COLOR white][B]Kamen Rider Ryuki[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/CMK6ax3.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/tvfogo-hdd/Tokusatsu/main/Kamen_Rider/Kamen_Rider_Ryuki</externallink>
 <fanart></fanart>
 <info>Tokusatsu</info>
 </channel>
