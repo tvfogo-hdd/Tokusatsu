@@ -20,6 +20,14 @@
 </channel>
 
 <channel>
+<name>[COLOR white][B]Kamen Rider 555[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/mbMXzNf.jpg</thumbnail>
+<externallink>https://github.com/tvfogo-hdd/Tokusatsu/blob/main/Kamen_Rider/Kamen_Rider_555</externallink>
+<fanart></fanart>
+<info>Tokusatsu</info>
+</channel>
+
+<channel>
 <name>[COLOR white][B]Kamen Rider Black[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/rRxxwZA.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo-hdd/Tokusatsu/main/Kamen_Rider/Kamen_Rider_Black</externallink>
