@@ -1,153 +1,924 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.01 - A metamorfose
-https://assistonlineapi.online/make/check/?list=1952d9ca3d9a94a9
+<item>
+<title>[COLOR gold][B]Warrior Nun[/B][/COLOR] [COLOR chocolate][B]01ª Temporada [/B][/COLOR]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+<fanart></fanart>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.02 - A festa dos monstros
-https://assistonlineapi.online/make/check/?list=e8b1be7d734b2667
+<item>
+<title>[COLOR white][B]EPISÓDIO 01[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dwlk8PAWEl9wS8utloFu29Ai2yZdG_-JgbMRaDmmkYK0DA7zekSxHNfmgVdYttAtVJ0dz1M3wMCpJ_t48MHDgjbT0_JMbskaHPayFr3_3x95aw8gAPR_k64xYJoKhxsGt_fs_Yp</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.03 - O mutante das galáxias
-https://assistonlineapi.online/make/check/?list=5dd6208ed680f12e
+<item>
+<title>[COLOR white][B]EPISÓDIO 02[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dwS1xlq_6Yp52sHChBd9li_9eE49G-sk9ONhOAnTXrJdH-MsIyw6We-n1XBedq6Obs7oEcq4H2ORcABIg44lOj3FwuPADG7br0byh1W8YZxqrXjwk_EXdBsxMyl4IOu8QAfVX06</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.04 - Experiência maquiavélica
-https://assistonlineapi.online/make/check/?list=67827378a84bbfd5
+<item>
+<title>[COLOR white][B]EPISÓDIO 03[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dwcQpITTHlTYAQxwVEbkMPwmGoF_NlkoVDm0drnqZCezBd_i_IU550WjAkFpHD_ZlKw-H4T2jilvEa4A79HntTaz5N-WeDAFbm3jNdgE-LdOfKb_oCz7xtMhhgaoGOc1WULdCPP</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.05 - A peste das trevas
-https://assistonlineapi.online/make/check/?list=38f595bf6113e0bb
+<item>
+<title>[COLOR white][B]EPISÓDIO 04[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dzOP2tczLOwaLcxkNoHewQEXpK3FmyxjVaIFJIhaVkNgnd9esstugnWZiAoADGLeaZo7To1cQG2MXc4yqNf8Tl4IH-HnfP6D88870BA6YY-xlzz3L4KouWaSrRoz3UlocrkT04</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.06 - A guerra dos computadores
-https://assistonlineapi.online/make/check/?list=6fddeb335193f514
+<item>
+<title>[COLOR white][B]EPISÓDIO 05[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dx4iT2niYjP-BZsqGcGmsZl1E3jYYgZTItu1_E6YjraJ7pq3M5KS-D_bPiXvA5X3AnuvJL4MYtDqgnothVAuMmAfoGxbT5yLvIbLIvLF1em5D1Fzpd8_Q5BduTNpwBbSi0SDuGh</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.07 - A regeneração de Battle Hopper
-https://assistonlineapi.online/make/check/?list=27bb20fa098dc409
+<item>
+<title>[COLOR white][B]EPISÓDIO 06[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dwtsn-D3UwNUdwuKEDht8kFN4v3WYLIoHKSSfcTroOTyhum-UFvUJoPr2xhPqvyC7eLTxu1c55U_wQ9Od-JzceucWnfP6DgjY5Ja9lGtnJLbIOQV2L80C57Jg5nW76Y-0rExw4</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.08 - O poema do demônio
-https://assistonlineapi.online/make/check/?list=4abb5e3f796b598c
+<item>
+<title>[COLOR white][B]EPISÓDIO 07[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dygtPXE9nULjkdPpQfv5HwdDbEBZ9YR9gcsyoJApR-jTfSmcOGu84-TO33DT7CYJeTV6_QTgOO_XnpXI14c98jKOwrTbycG0e3sqKBlUhTeG9ubxn_r1g2bCayGkRPnVmjq_j4</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.09 - As façanhas de Madame Pérola
-https://assistonlineapi.online/make/check/?list=125d0c87135b7c59
+<item>
+<title>[COLOR white][B]EPISÓDIO 08[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dxkefiP_fD99tXw59vJ8ibzVzTef7a_Ss9qgYOjkLwaTAw7p7J6CSlUEhNj60o0R-W65unH2tg2ykzG9dicxRijgqNbkLi7DD91-HTKmAz6eml3KB3nrVNHmtM4uhZc9vIA2v4</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.10 - Os rebeldes
-https://assistonlineapi.online/make/check/?list=5db2a36332ed1e08
+<item>
+<title>[COLOR white][B]EPISÓDIO 09[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dzGRIO7tlNt979BK7WYe4Oq0aU3zfMYaNpDLrQbgTyRraMA-ormcWeEE-U6qfuIksCb4lLO3kLOUa4x8xgHgpMBAeGK3AOflyDqEgumwk_COOfYCXWo__h3Xw4nUQUYf9ZzXyyD</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.11 - Tempestade negra
-https://assistonlineapi.online/make/check/?list=52c30aad9a260442
+<item>
+<title>[COLOR white][B]EPISÓDIO 10[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dx51DUObEgsVoeB1Yx7WHOA8I8KhpZUBwafWHQNuX2nHtoENgjE8n86mLaJuQF7adsGHz21G_SHqKC8boVvaS5e1KsnvShY-xUawraTKQjwYQ0VS70rqxUlCuh6A3vkVOUtQJp4</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.12 - Máquina lendária
-https://assistonlineapi.online/make/check/?list=c94e186f13e71a6f
+<item>
+<title>[COLOR white][B]EPISÓDIO 11[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dxB4xgbEE-st5B-ijwnwLWuUeMBri0s1qpqgeGUlbVptsOKsz9JWjOy2W1IPGA8KgqTsxWKOFNQbPah0n9peT9yyxMUa2FveeZt45EZ_vfyB5a2CjKNCX71-c6fzrDq8Ai5f55m</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.13 - O rapto das mães
-https://assistonlineapi.online/make/check/?list=6d6125a90114d5c9
+<item>
+<title>[COLOR white][B]EPISÓDIO 12[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dyGZayNa722b7UjXs4QkcQVVb5MkOTIbjPyU2UndHIQfycjzeZdu7U231-JiAc0lf4KJPyoMXvbrT9-2uP1xCue23Zf7sEqzLmPgltd8bh1MeyeXlF81s-fzMO3bO6k1rKPmA</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.14 - O desaparecimento dos peixes
-https://assistonlineapi.online/make/check/?list=7d4a23c2e2a7accb
+<item>
+<title>[COLOR white][B]EPISÓDIO 13[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dyKFrFU3mJ90jY9wr3KtKbahJaxTzaLTdFK9DX1CULyk5DkAZpgvbUYDCTrMd5QOQzXRMrue03OIlW_pSPN6-ceO3Q2gUBqmMFR3DUmDCM4T42vvULF3X5SyiHZlRuj7yu6bwI</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.15 - A escola em perigo
-https://assistonlineapi.online/make/check/?list=a044f7a086002c00
+<item>
+<title>[COLOR white][B]EPISÓDIO 14[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dz54TMUc5oyJDWLlYP5JbDC4-Po9EDmOb3z5Gg4Dctog8trhEHdIIu5EKJKyA6fHWECt0s7mG-Ef4FENQTq1uYNsipzJUYXXpw38xHrfZMOZCdufcrDdGVFXSOP38VryPNql88</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.16 - Amigos para valer
-https://assistonlineapi.online/make/check/?list=f86166f5e75c0dfa
+<item>
+<title>[COLOR white][B]EPISÓDIO 15[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dzIu9Y5OO7RgTtBrj4dh7tK8DNpIu_4GMXlKneQU0I9_maBYWpWTJwt4EC4bt1Snth-fxBVYKH1B47DIQ_7PpHiratSyd2hxekixrJrsSUP7cME_yCcNuXhPRtk_AJsC0WHdDw</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.17 - Sonho de infância
-https://assistonlineapi.online/make/check/?list=2256381383c49492
+<item>
+<title>[COLOR white][B]EPISÓDIO 16[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dxv6cKxnnTyOY19pYwckAfYST2-fI4mGWSqZpYYnTsae9Ue6If9Ky5N3I9_B-TvsUQe-ygYbXpCX30UzO7x7EDRTO9n5axto4dtERKiaWIKIiYH4jRtA5SbJaNj26kO5C8sfgk</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.18 - O imortal das trevas
-https://assistonlineapi.online/make/check/?list=83b5e85c4f97c717
+<item>
+<title>[COLOR white][B]EPISÓDIO 17[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dyO1uGX5EDGcDbpSR1oDWXpmwL25Y8tR8eF2g75fX-wGg94wx31vxkWLC3o2d1geygo--HmLEzcQXdgYQR2jyVFKbGebhiRUPCDXLVumxG4hwsp6ELEs6SF6W-69za5vnefepNV</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.19 - Armadilha Satanica
-https://assistonlineapi.online/make/check/?list=a22566de4ae68931
+<item>
+<title>[COLOR white][B]EPISÓDIO 18[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dxU6-MZAFcfcZPfc7xe9QKNvoNIT95m7KaI-b5vHtMhkT-oUVrASxV-0VQCfwoaJeg0fr2qdyN47OhN10_XK2cSK3wAnjpu9WcN_Cr3tbX8sLa9BqeGt0fYALZiHviax0O7yao</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.20 - O túmulo de Kamen Rider
-https://assistonlineapi.online/make/check/?list=9ee4874988315a30
+<item>
+<title>[COLOR white][B]EPISÓDIO 19[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dxKvDvsASktMVo71uQioBgNJYSXLqzUIlKMO78YhShhiirobqcqtxVrNnbYRJH4lnvBCgXtWu1D3ZN3Fsvrmxu55E9e74BiZBBKhFKgzi4Zb8OeFZarxNSP2DoQQShstrwE_ZK3</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.21 - Duelo das Máquinas
-https://assistonlineapi.online/make/check/?list=5813d2ce6a31495e
+<item>
+<title>[COLOR white][B]EPISÓDIO 20[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dxTWpLZBYn08MCVV3WM6fXMAGj9Gf4zMlHLQYa0rN1RgvRIHAu9pQ3yBf622SPv_aN6YYHyz2ZxQKFdCuixMD7Lan_Xtrah6fNxyC7P9tFt14rM9zcLIDPX2sJAzVUhk199jAE</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.22 - Sombra negra
-https://assistonlineapi.online/make/check/?list=a7bcdeb0f4b48288
+<item>
+<title>[COLOR white][B]EPISÓDIO 21[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dw2XD0_ZUpVZKEgmDiJbpHLBreTvnSqQp8u-f1K90W1PvXjwAinrbsOXTa7Z2KWBC03m9Tti-hRZjNYaQwio7HeosV_n2z9ojtif9sK0MYGZLulC7XNds3Nu4jRj0pBwi3LtFnq</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.23 - O monstro de duas cabeças
-https://assistonlineapi.online/make/check/?list=5c51151a6a646d30
+<item>
+<title>[COLOR white][B]EPISÓDIO 22[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dyVLohlMYtsnyJgfe_ntE6n7nh9wwGQOxsUrHvLimK7xXdmQtj_RRYEiQ4WUc7X55yqXw8IRpyd9z8lFzeykIGFdojlLsfjT7_7YAga_VI_lLMuGFzrky5ZAV1CsDGmaNzlq_Q</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.24 - Pesadelo Sem Fim
-https://assistonlineapi.online/make/check/?list=5735928abd5cab4
+<item>
+<title>[COLOR white][B]EPISÓDIO 23[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dw2ip1lwommd3vdUkpMhuBRWNm64Q-1GgESrPtnZ34HSYwXg5yN51uxFePSTRRltC5BxTZCGl0ZA_D0NXTHKv07_zycGsxs0cr4Xz6SDLbOUyz_TEfszbbnFT4iyxK_qokA7sUu</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.25 - Máquina combate
-https://assistonlineapi.online/make/check/?list=3317d754afe4de89
+<item>
+<title>[COLOR white][B]EPISÓDIO 24[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dz2htecwL6SEIu_rSEqdWmRnWZ2iTLYs8309FT5YDCr7cy4C3nXikwLmYaSefEtJ88Nxz5wg1jdlQ1Vjuz0foQpRhGJmbWmz1ULrTyJbzv329UelSMMSwLFGoMmcf6WiTMMClo</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.26 - A possuída
-https://assistonlineapi.online/make/check/?list=b3e15e9e8140de59
+<item>
+<title>[COLOR white][B]EPISÓDIO 25[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dxNB7KOCKxh2cMEaa_YE0j-ZBdH_Gfori8YanHe-1VYUnjH9RDJAw1HNn0y3YLCK5mVbQuCJznbtA6Esi69ycSTE5Cr60hLI6uceKUpp9YTtCUjx7MzWX4pe8aCQzo99kaBDsw</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.27 - No fio da navalha
-https://assistonlineapi.online/make/check/?list=309f007596b7e0be
+<item>
+<title>[COLOR white][B]EPISÓDIO 26[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dyfpyHX1eHQENjEp7i9dw3s5g1POQ9vkhqf3CQMhkT7hRXGF7gxrIsikDb0oJ4wqlYjAAxhEeKVAr-ErP2Gfsi0QF1u-CQqE0RC4k0uAnqYNoe5t5kUy5gtkU0GvnmDjBEKUiY</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.28 - O amuleto dourado
-https://assistonlineapi.online/make/check/?list=50d820fa7334c424
+<item>
+<title>[COLOR white][B]EPISÓDIO 27[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dyOV1wBjGgcIsSkzB0CF37defgbHERrl6OltWbI2tYvY9hrmFBkd88WUMRFDa6pGwN8aVMgLE0ukekGsvKu7yE3trZrRVUF3gZS_-Zm65G5WLfD6Zu9Q2l_7PC4Oc8-FDfmoQE</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.29 - Boneco assassino
-https://assistonlineapi.online/make/check/?list=7f99920b1ea881dd
+<item>
+<title>[COLOR white][B]EPISÓDIO 28[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dzdkrCHVyHBr-dXvz6XbdCV4yiBddld4zLX7YglpUaNVS_7JLLuhiTATkQCgOXHikmXPeSAQPm1uB4ER02uACSiFskb1cCJeYGKWXpM0W58fZUX95vYjN_7YH1HJ0E7PhlIF9vT</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.30 - A misteriosa Lana
-https://assistonlineapi.online/make/check/?list=7a93e7334c51f985
+<item>
+<title>[COLOR white][B]EPISÓDIO 29[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dzrP_GXGhoROvq4W0EyBAtijn63pWheWBgWHTfaI1RYC297zQ1uzzq9NnVdXI2vOvlF9Ej5tikmU_MOEpncB4x_WqKSBhCWBCMEP38PeG3yKkj8XA1AGsYlfut5RaAlYXk_nvs</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.31 - A força do comando jovem
-https://assistonlineapi.online/make/check/?list=81c26d8dd84cf429
+<item>
+<title>[COLOR white][B]EPISÓDIO 30[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dzEO8JUL7T3fuYGQASw74dBVFvD4pCT6zUYD5H7-KWH-8p-cn9j0DcC_j71Nh7-Y8IaLusWT_AqX8wo6m8VrM9zNdEBEzPeyD4fq6gnukCqzB7oiawgN5_fS0y-qkF8_Wwxrm0</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.32 - Febre alucinante
-https://assistonlineapi.online/make/check/?list=c4c8540911b7c499
+<item>
+<title>[COLOR white][B]EPISÓDIO 31[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dy-Nqq2-eNUt0vDiHpxsAwDBlBlYXEqUrl4wea5pk52zWAPPeTYTFPQLCBPbqXg42VUMOauTEw-6f006vCor8HxG0AreZfpTXAf_MZL_xVoYlAnrV1DVOk_MwtoeWDb4_Vjoug</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.33 - Eu venci o mundo!
-https://assistonlineapi.online/make/check/?list=2c244f31dbed0689
+<item>
+<title>[COLOR white][B]EPISÓDIO 32[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dyOYT_OTZHArggVIVRhNOF76-98ZquHIk9Al5fE0c6SuVjH5ek4IWBPfvUrkUnqdXcVvccCkNVFEd2vnXQn9JOptOO_QX-2l7rSjKGyGUUZI7gvI5pDWblNffYqivxzXftZt2Ly</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.34 - A ressurreição de Shadow Moon
-https://assistonlineapi.online/make/check/?list=e602f8a063811d76
+<item>
+<title>[COLOR white][B]EPISÓDIO 33[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dyiOUufuGozO1Hc44TSMpK9VT73fH_UzldeGKaQOWZbGa0VXeC5XUnruolwG0ZeCc1NX0Ygdx1Dpykz9sIg-Bzu5aevC2L30_zlRH6tiF0BXI8f0NGIejQp-ZQ2SKidt5RgOp58</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.35 - O herdeiro imperial
-https://assistonlineapi.online/make/check/?list=20f8595146189763
+<item>
+<title>[COLOR white][B]EPISÓDIO 34[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dyG7pagUXysu3rvTWsKjmvBH-0rK7-tki3v7Qv7q-t1F02vWAw18F8kCVUwGIjK5LZG2IubWU31vOmvp_wOyun7sufK-1pBfBrgLiD8AjDsMWHGADGPapUz4EyoKkCNWNaN04HN</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.36 - O renascimento dos sacerdotes
-https://assistonlineapi.online/make/check/?list=abdfb62c9f8f365c
+<item>
+<title>[COLOR white][B]EPISÓDIO 35[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dyMU5OwbvgMol98YNcbAr1YOGykthSKEQNHfB-oOzFAD16FuQgVlmXoREZaoDEvDQjf4ypQrduGytsU0d1cw6nf89GP3ALilEwqQvyiEEH6IbLsMol6oaK0fDYWgtX6H47Avg</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.37 - Nos céus de Yubari
-https://assistonlineapi.online/make/check/?list=6e303416b8357425
+<item>
+<title>[COLOR white][B]EPISÓDIO 36[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dzzCA9R6lsA_xLEH86s_qHdk1igEIHQnxlp0kGX7nDzzjzPEmJrMsMfgJVoND136c6TzpSzH5IrgnyRND5lXrvQfAOLPcz9FzersfJNZMyLlCZuFEAV4y1OLHGIPF_xClY2e4Uf</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.38 - Conspiração negra
-https://assistonlineapi.online/make/check/?list=e74b0930b72ab7bc
+<item>
+<title>[COLOR white][B]EPISÓDIO 37[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dwT8vBGw1hRACWn-X9Py1BhU74e5P7U2dti0nk8eKn-_tw1UaFPNZcwf7VbrNu9947XOFARxFES-PekmKgWr-79msgaRg6_QggvaAiI9oYYxHkklEfWvG_Npl1O8Vz29ZPfeQ</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.39 - Ídolo fatal
-https://assistonlineapi.online/make/check/?list=c55aa8fcedd97719
+<item>
+<title>[COLOR white][B]EPISÓDIO 38[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dxnmkig4PmwWx4Oy021sn1yeZqM5cqDO2yMNOjyu0sB36urjz-8hZSeKiFzF1SeJvi_HDiPNv03C4TR0vGgF4GBp0JWTY0nweLv_XV5vKyvDnlFtIoRP5klzSdBkf-dzbFGSYlp</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.40 - O Segredo do Karateca
-https://assistonlineapi.online/make/check/?list=98325cd4cdfd356b
+<item>
+<title>[COLOR white][B]EPISÓDIO 39[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dwKGQ1-7GORyFjjlRtiTorOWG4uN7NB2A7TRYRaIKMHZZVhxqjbmd6DbTVxCAT7IzZRULzYHNLeCy27QPrEAI6PVUdJDNug7kZfsn25zKFImEmnzj148LTxvcRnqlynhvF0yQk</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.41 - O ladrão do tempo
-https://assistonlineapi.online/make/check/?list=314707a599c1051c
+<item>
+<title>[COLOR white][B]EPISÓDIO 40[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dz0Pd0_VV94GGnNxNeN6gaTtj1t6joXHNbxnBnOSD5KLFX1FmEYJV6vL_BiWZEHbvLIU2ckj2xaCL8Hq5oVXA9FGHXOFL2ViUtrX07ozrCB0mVy4KWSr7Eqqkw1OW4tRMa8kEfE</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.42 - Congresso dos monstros
-https://assistonlineapi.online/make/check/?list=20fd0e91c0a1870
+<item>
+<title>[COLOR white][B]EPISÓDIO 41[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dyDh6euPj1D1wcxx__OYUuL6tlxAmH-DgPB7KArL-7BccNUBDKLRKzRHxnVNPRpMUmyhKQs1cbwWavroIz0tWy-274R0R9Pv6hXtrorT6LYegoI5aurYQpf4xfSqTqkRLVG2E8</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.43 - Paraíso subterrâneo
-https://assistonlineapi.online/make/check/?list=b68367c4b4826276
+<item>
+<title>[COLOR white][B]EPISÓDIO 42[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dyEoQPCbHixmDfzYl40XBtl9QEGXZffn64nlHPRMSj1oCU56Ow98Zor_97hqJj_rwpu8cZzzs2cdEKyfBE7gc8PEq4ws6vXvn20Ax4CW-1mBXDl0Kop2A6hNLfKC_jRkaA9lvg</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.44 - Dimensão do mal
-https://assistonlineapi.online/make/check/?list=de0afe6df3bd8381
+<item>
+<title>[COLOR white][B]EPISÓDIO 43[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dwF1lKT5pk5bjiAttcL974zl8hq0Pbfb5X5bzOyY-w_odDNdErNNEVsN9S0Vq8rXwsKlPRfcUdj-_dXXCcAkdVA1ZzSgkmgk0hqwa7dg7KyaJ8pUkEJ4Xh8YLmZIP0A8uditw</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.45 - A esfera solar
-https://assistonlineapi.online/make/check/?list=b9458d8cf1336fc
+<item>
+<title>[COLOR white][B]EPISÓDIO 44[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dz2xEcmSBQEKC2s0FbudrPqahwAjyVBm-OJO0vwRjah1T7CCR7SE2b1rjSrQOuR7j9UDgTx4nL2SIO23xuZ-8aZm75ZcDSkIS_DcjH6M39sYJ5GBFKCZaPbI0fN3y9tssoI7YZa</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.46 - O inimigo das sombras
-https://assistonlineapi.online/make/check/?list=b7789046cadd6b01
+<item>
+<title>[COLOR white][B]EPISÓDIO 45[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dzKZQpCv1q_VdPpUOiI7pEfiQC3nLtzOC1rmSqHWWupPEkoMOxbmVdGwK-5A52V9jDm5thHKRh_9l4SxpYgwcfu4NLeX-CWTbf8ye_q-9vOYlMmyAzzqc5nvhYAxwxeCvoZoCU</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.47 - A morte de Kamen Rider
-https://assistonlineapi.online/make/check/?list=ae9dd4c3005cbe6f
+<item>
+<title>[COLOR white][B]EPISÓDIO 46[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dxnRzafwAgHWqPI_z5uwuluO3tikvvvMBeiN3sHgNd39HeTqcc5K5y5Oq1CDePZf903IP7K4tv8yR5r1JOO__RCTlnobgJi3p6DUXhWJXwWwxtnqijOiN-qO52FQuvGOTF24to</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.48 - A Terra há de vencer
-https://assistonlineapi.online/make/check/?list=b542416aedc30ae2
+<item>
+<title>[COLOR white][B]EPISÓDIO 47[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dyBOHCnOwJ6jFOw6nKjmkqbt_dTm6No2uwlBgdNP7yAtLiu6wc4DBTkzokUfvJaAyvegvEU1leIHRdOvULvUwI1Oo3TeojasKPa0a1xn8VOHZQRGHwOmmWw9iGFYXL7oOcbbRM</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.49 - O último dos sacerdotes
-https://assistonlineapi.online/make/check/?list=68b32fdfc308a244
+<item>
+<title>[COLOR white][B]EPISÓDIO 48[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dwW5bFQzaFx3gQZ0F9qVdCyNK3iluoJutm8vf6OJB_BYkDU8BlToyWZK-y7XB12Cgel2tFUkqmv2wX62fTxGOSzL-jZ1w9SHFR97oVgUYgaiPTGnvrjfIWpQY-irC5OrVaqhOrq</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.50 - Quem é o Grande Rei ?
-https://assistonlineapi.online/make/check/?list=4a14ef40534e06e5
+<item>
+<title>[COLOR white][B]EPISÓDIO 49[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dwOaZVqj18QuEPO9xX97JtdH3M4uN41dTImDM078f78Usz9iCxdONRRglRsBnzr2Id6x68YsyazB9U7qYdGScf9m1YC5qwPfPV-IgLOGCj3JeO6YZy9Z7aLJ_eALhGMIeaeA98</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/V9-7-large.jpg" group-title="Séries Tokusatsus", Kamen Rider Black Ep.51 - O Último Dia de Gorgom
-https://assistonlineapi.online/make/check/?list=ff82a61acc34befc
+<item>
+<title>[COLOR white][B]EPISÓDIO 50[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dytqolZRWZWE2sy9ppk3Vno8xN6WWc2O2oZ_eVqDUwNcZ-L456xwY58R-HNd1fTxpEzXpr7RVdzwKrpYYy65aaEYmFHZ4T1w7F5ervtO_VO_oiARYvRhG3EiUkhO4dpSXt62-M</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][B]EPISÓDIO 51[/COLOR][/B]</title>
+<link>$doregex[link_blogger]</link>
+<regex>
+<name>blogger</name>
+<expres>play_url.+?"(.+?)","format_id":18}</expres>
+<page>https://www.blogger.com/video.g?token=AD6v5dwuF9Hleefy2VJTeahCvAH81U2Yqv4D4N0KOojMC0yzlYP3JAUW5mONWwEbWAqHkBsZae0BNf4JBR6hHmGKEBmKcDwc1tNbhGsNITDsn8Y-miZVFZBXDX7aUXyztaZO1NqRsWQ</page>
+</regex>
+<regex>
+<name>link_blogger</name>
+<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<info></info>
+<fanart></fanart>
+<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
+</item>
