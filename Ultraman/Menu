@@ -1,6 +1,14 @@
 <channels>
 </channels>
 <channel>
+<name>[COLOR white][B]Ultra Q[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/gfPqZsd.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo-hdd/Tokusatsu/main/Ultraman/Ultra_Q</externallink>
+<fanart></fanart>
+<info>Tokusatsu</info>
+</channel>
+
+<channel>
 <name>[COLOR white][B]Ultraman Geed[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/urrg7rR.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo-hdd/Tokusatsu/main/Ultraman/Ultraman_Geed</externallink>
