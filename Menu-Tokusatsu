@@ -25,12 +25,20 @@
 </channel>
 
 <channel>
+<name>[COLOR white][B]Policial de Aço Jiban[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/TVFa14g.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/tvfogo-hdd/Tokusatsu/main/Policial_de_Aco_Jiban</externallink>
+<fanart></fanart>
+<info>Tokusatsu</info>
+</channel>	
+
+<channel>
 <name>[COLOR white][B]Cybercop, os Policiais do Futuro[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/De4Xnbv.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/tvfogo-hdd/Tokusatsu/main/Cybercop</externallink>
 <fanart></fanart>
 <info>Tokusatsu</info>
-</channel>	
+</channel>
 	
 <channel>
 <name>[COLOR white][B]Bicrossers[/COLOR][/B]</name>
