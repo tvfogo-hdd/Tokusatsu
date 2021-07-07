@@ -911,7 +911,7 @@
 <regex>
 <name>blogger</name>
 <expres>play_url.+?"(.+?)","format_id":18}</expres>
-<page>https://www.blogger.com/video.g?token=AD6v5dyzbyQT_NRdBKA86hEkJCLCDall7D6fp6Te-F84xkKfgFjDYbsdzkPWnEByOIArUTv7DdLVV3jmLtV689hWntnb2b1XDQB9kqyoj4410qFtjDZQMSgLptF6sjs0R7zSz7PwY2Y</page>
+<page>https://www.blogger.com/video.g?token=AD6v5dy_TOTZXvG5-x_wXvd3HdkLIfao5txe8M3PKfWnTL9OU_7Es6oF2w2jSPr6HU7Mrr-ACTmUEeA3Ice3xDzi0RXogQFyhP0SW0q2ZD57FeACm-B5IW4Cjh-m0Xyui5lTeO7FtHQ</page>
 </regex>
 <regex>
 <name>link_blogger</name>
@@ -929,7 +929,7 @@
 <regex>
 <name>blogger</name>
 <expres>play_url.+?"(.+?)","format_id":18}</expres>
-<page>https://www.blogger.com/video.g?token=AD6v5dzPv9UrrSCsU8Jl9qK8QHVRk9R6DhOOdOW07OKwRVCpqq0lv1n7_qvSkr9NSGa4kQRCwKfKGsuIwPlVbGw7TkMxIU-GpV5_NNW_aJ7cM0Mf64ZG3s10foUFNLyXa-3wCVSgYhA</page>
+<page>https://www.blogger.com/video.g?token=AD6v5dxiZpZrfiMtKrxP7OQyLwTBEjCZjFQasgUXzbUIr74KV7NDQ1WR6u7esW87M9xJ1kCD3IEGWKjy3beI4akysxzZ7GRK3HgzCwac3wFTfrjX2rtmxCYvPrHnm5pG1j0imTZ6c5I</page>
 </regex>
 <regex>
 <name>link_blogger</name>
